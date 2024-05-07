@@ -1,0 +1,25 @@
+{
+  "name": "hardhat-starter",
+  "version": "0.0.1",
+  "description": "Hardhat project",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ignition": "^0.15.2",
+    "@nomicfoundation/hardhat-ignition-viem": "^0.15.2",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.10",
+    "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.6",
+    "@nomicfoundation/hardhat-viem": "^2.0.1",
+    "@types/chai": "^4.3.16",
+    "@types/chai-as-promised": "^7.1.8",
+    "@types/mocha": ">=10.0.6",
+    "@types/node": ">=20.12.10",
+    "chai": "^5.1.0",
+    "hardhat": "^2.22.3",
+    "hardhat-gas-reporter": "^2.1.1",
+    "solidity-coverage": "^0.8.12",
+    "ts-node": ">=10.9.2",
+    "typescript": "~5.4.5",
+    "viem": "^2.10.1"
+  }
+}
